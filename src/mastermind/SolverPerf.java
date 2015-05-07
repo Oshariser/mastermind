@@ -1,9 +1,9 @@
-package fr.univ.lyon1.mastermind;
+package mastermind;
 
-import static fr.univ.lyon1.mastermind.Peg.BLUE;
-import static fr.univ.lyon1.mastermind.Peg.GREEN;
-import static fr.univ.lyon1.mastermind.Peg.PURPLE;
-import static fr.univ.lyon1.mastermind.Peg.RED;
+import static mastermind.Peg.BLUE;
+import static mastermind.Peg.GREEN;
+import static mastermind.Peg.PURPLE;
+import static mastermind.Peg.RED;
 
 import java.util.Collections;
 import java.util.List;

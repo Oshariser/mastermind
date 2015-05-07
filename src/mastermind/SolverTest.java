@@ -1,7 +1,7 @@
-package fr.univ.lyon1.mastermind;
+package mastermind;
 
 import static org.junit.Assert.*;
-import static fr.univ.lyon1.mastermind.Peg.*;
+import static mastermind.Peg.*;
 
 import java.util.List;
 

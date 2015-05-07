@@ -1,4 +1,5 @@
-package fr.univ.lyon1.mastermind;
+package mastermind;
+
 
 import java.util.Arrays;
 import java.util.Collections;

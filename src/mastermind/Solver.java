@@ -1,10 +1,10 @@
-package fr.univ.lyon1.mastermind;
+package mastermind;
 
 import java.util.*;
 import java.util.concurrent.*;
 
-import static fr.univ.lyon1.mastermind.Peg.*;
-import static fr.univ.lyon1.mastermind.LaunderThrowable.launderThrowable;
+import static mastermind.Peg.*;
+import static mastermind.LaunderThrowable.launderThrowable;
 
 public class Solver {
 

@@ -1,4 +1,4 @@
-package fr.univ.lyon1.mastermind;
+package mastermind;
 
 public class CodeMaxUncertainty {
 	private final Code code;

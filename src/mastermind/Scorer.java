@@ -1,4 +1,4 @@
-package fr.univ.lyon1.mastermind;
+package mastermind;
 
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.ConcurrentMap;
